@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/mapsFragment">
+
+    <fragment
+        android:id="@+id/itemFragment"
+        android:name="com.example.anandu_sem2_final_project.ItemFragment"
+        android:label="List View"
+        tools:layout="@layout/fragment_item_list" />
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.example.anandu_sem2_final_project.MapsFragment"
+        android:label="Map view"
+        tools:layout="@layout/fragment_maps" />
+
+</navigation>

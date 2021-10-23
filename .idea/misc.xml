@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.5635416666666667" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.5635416666666667" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/drawable/side_nav_bar.xml" value="0.5635416666666667" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/activity_edit.xml" value="0.33" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/activity_main.xml" value="0.5473958333333333" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/app_bar_main.xml" value="0.5473958333333333" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/content_main.xml" value="0.48188405797101447" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/fragment_country_list.xml" value="0.5473958333333333" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/fragment_country_list_item.xml" value="0.5333333333333333" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/fragment_gallery.xml" value="0.2662107396149949" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/fragment_home.xml" value="0.2662107396149949" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/fragment_item.xml" value="0.6131025957972805" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/fragment_item_list.xml" value="0.3265625" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/fragment_maps.xml" value="0.5473958333333333" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/fragment_slideshow.xml" value="0.2662107396149949" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/layout/nav_header_main.xml" value="0.33" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/menu/activity_main_drawer.xml" value="0.5473958333333333" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/menu/main_menu.xml" value="0.3265625" />
+        <entry key="..\:/Users/ravia/AndroidStudioProjects/Anandu_sem2_final_Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.34270833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
